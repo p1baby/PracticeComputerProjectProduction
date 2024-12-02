@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# PracticeComputerProjectProduction
-=======
 # TODO Application 
 
 ## **Описание проекта**
@@ -34,8 +31,5 @@
 ## **Запуск проекта**
 1. Клонируйте репозиторий:  
    ```bash
-   git clone https://github.com/p1baby/PracticeComputerProject.git
-   cd PracticeComputerProject
-
-
->>>>>>> «deploy»
+   git clone https://github.com/p1baby/PracticeComputerProjectProduction.git
+   cd PracticeComputerProjectProduction 
